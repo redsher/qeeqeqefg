@@ -11,7 +11,8 @@ body{
     height: 46rem;
     flex-direction: column;
     background: #4B4AEF;
-    /*clip-path: polygon(65% 0, 57% 100%, 0 100%, 0 0); */    
+    /*clip-path: polygon(65% 0, 57% 100%, 0 100%, 0 0); */ 
+       
 }
 .cont1{
     display:flex;
