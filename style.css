@@ -70,7 +70,8 @@ login{
     align-items: center;
     gap:10%;
     padding-right: 70px;
-    
+    text-decoration: none;
+    color: #1F1F1F;
 }
 log{
     display: flex;
@@ -93,7 +94,7 @@ sign{
     width:60%;
     height: 50px;
     color:#1F1F1F;
-    
+    text-decoration: none;
     
 }
 hi{
