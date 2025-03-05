@@ -46,6 +46,9 @@ pic{
     justify-content: center;
     align-items: center;
 }
+a{
+    text-decoration: none;
+}
 ul a{
     color: #EEEEEE;
     text-decoration: none;
@@ -71,7 +74,7 @@ login{
     gap:10%;
     padding-right: 70px;
     text-decoration: none;
-    color: #1F1F1F;
+    color: #ff0000;
 }
 log{
     display: flex;
